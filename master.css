@@ -1,0 +1,33 @@
+body{
+    background-color: #4F5165;
+}
+
+li{
+   margin-left: 150px;
+}
+
+#bodydiv{
+    background-color: #4F5165;
+
+}
+
+#container{
+    background-color: #547AA5;
+}
+.jumbotron{
+    text-align: left;
+    height:750px;
+    background-color: #547AA5;
+    border-style: solid; 
+    border:2.5px solid; 
+    border-color: #474044;
+}
+.responsive {
+    min-width: 25%;
+    max-width: 100%;
+    height: auto;
+  }
+  .copyrightfooter{
+    background-color: #293132;
+  }
+ 
